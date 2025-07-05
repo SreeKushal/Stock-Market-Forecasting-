@@ -22,35 +22,5 @@ Built a basic predictive model to capture short-term stock price movements and t
 - Build an interactive dashboard (Streamlit/Flask)
 - Include macroeconomic & sentiment-based features
 
-## Project Structure
 
-```
-|-- data/               # Raw & processed datasets
-|-- notebooks/          # Jupyter notebooks
-|-- models/             # Trained models (optional)
-|-- README.md           # Project documentation
-|-- StockMarketForecasting.ipynb  # Main notebook
-```
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone <repo-url>
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-
----
-
-## License
-This project is open-source under the MIT License.
-
----
 
